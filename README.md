@@ -3,14 +3,19 @@
 Installation:
 
 Install to c:\quake2\pets or any new directory you want.
+
 Then go to c:\quake2 and type: quake2 +set game pets
 
 Commands: 
 
 spawn gladiator companion - j
+
 spawn flyer companion - k 
+
 spawn hover companion - l
+
 spawn gunner companion - m
+
 spawn infantry companion - n 
      
 Description:
