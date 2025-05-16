@@ -1,10 +1,10 @@
 # Quake-2-NPC-Companion
-______________________________________________________________________________
+
 Installation:
 
 Install to c:\quake2\pets or any new directory you want.
 Then go to c:\quake2 and type: quake2 +set game pets
-______________________________________________________________________________
+
 Commands: 
 
 spawn gladiator companion - j
@@ -12,7 +12,7 @@ spawn flyer companion - k
 spawn hover companion - l
 spawn gunner companion - m
 spawn infantry companion - n 
-______________________________________________________________________________      
+     
 Description:
 
 Creates spawnable monsters that follow the player. Link to source code of mod
